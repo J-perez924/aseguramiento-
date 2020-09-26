@@ -1,0 +1,116 @@
+.fondologin
+{
+	background-image: url("../img/flogin.jpg");
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #2874A6;
+
+}
+/*
+.fondologin
+{
+  background-image: url(https://cdn.pixabay.com/photo/2016/02/19/11/19/office-1209640_960_720.jpg);
+  background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #2874A6;
+
+}
+*/
+.colorfondo
+{
+	background-color: #EAECEE;
+}
+
+*
+{
+  padding: 0;
+  margin: 0;
+}
+
+body
+{
+  font-family: arial,helvetica,sans-serif;
+}
+
+nav#lateral
+{
+width: 15%;
+height: 692px;
+float: left;
+padding-top: 5px;
+padding-left: 15px;
+}
+
+#datosu
+{
+  padding-left: 30px;
+}
+div#contenido
+{
+
+  height: 692px;
+  width: 85%;
+  margin: 0 auto;
+  background-color: #566573;
+  float: left;
+}
+
+.center
+{
+  text-align: center;
+}
+
+.fondodiv
+{
+  background: url(https://cdn.pixabay.com/photo/2015/01/08/18/25/startup-593327_960_720.jpg) no-repeat fixed center center;
+   /*background: url(https://cdn.pixabay.com/photo/2016/03/26/13/09/cup-of-coffee-1280537_960_720.jpg) no-repeat fixed center center;*/
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   height: 100%;
+   width: 100% ;
+   text-align: center;
+}
+
+.textofondo
+{
+  margin: 10px 0px 0px 0px; 
+  padding: 10px;
+  background: rgba(0,0,0,0.5);
+  color: white;
+  display: inline-block;
+  height: 91%;
+  width: 100%;
+  overflow-y: scroll;
+}
+
+.textofondo2
+{
+  margin: 30px 0px 30px 0px;  
+  padding: 10px;
+  background: rgba(0,0,0,0.5);
+  color: white;
+  display: inline-block;
+}
+
+.error
+{
+  color: #ac2323;
+}
+
+table#tablaform
+{
+  border-collapse: separate;
+  border-spacing: 20px 5px;
+}
+
+#form
+{
+  color: black;
+}
+
